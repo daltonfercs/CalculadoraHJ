@@ -19,6 +19,8 @@ Kotlin, Android y XML utilizados en el desarrollo
 ## Screenshots y vista previa
 Screenshots o enlace a la vista previa del trabajo finalizado
 
+![](img/calculadora.png)
+
 ## Instalación
 Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
 
